@@ -3,3 +3,5 @@ Copy/paste Pure Data patches in plaintext, using temporary file and system clipb
 
 Copy into your Pd search path, and Pd should load it automatically on application launch
 Tested only on Pd 0.50, 0.54 on MacOSX
+
+Use at your own risk - the current implementation is a bit hacky, proper way to do it would be implementing it in pd core, converting patch text->binbuf-text
