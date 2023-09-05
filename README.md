@@ -1,3 +1,7 @@
+# NOTE: discontinued
+In favor of getting this to Pd core some day, wip PR
+at https://github.com/pure-data/pure-data/pull/2086
+
 # pd-kopi
 Copy/paste Pure Data patches in plaintext, using temporary file and system clipboard
 
